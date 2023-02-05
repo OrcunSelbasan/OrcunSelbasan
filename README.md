@@ -93,6 +93,14 @@
               src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"
               alt="Dart"
             />
+            <img
+              src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
+              alt="MySQL"
+            />
+            <img
+              src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
+              alt="Netlify"
+            />
           </td>
         </tr>
       </table>
