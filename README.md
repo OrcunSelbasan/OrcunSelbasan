@@ -2,9 +2,11 @@
 
 ## About Me
 
-:arrow_forward: Frontend Support Engineer @ [Jotform](https://www.jotform.com/)
+:computer: Frontend Support Engineer @ [Jotform](https://www.jotform.com/)
 
-:arrow_forward: Computer Engineering Student @ [Istanbul Bilgi University](https://www.bilgi.edu.tr/en/)
+:man_student: Computer Engineering Student @ [Istanbul Bilgi University](https://www.bilgi.edu.tr/en/)
+
+:mailbox: [Reach out](mailto:dev.orcunselbasan@gmail.com?subject=[GitHub%20Redirect]%20) to me!
 
 
 <div>
