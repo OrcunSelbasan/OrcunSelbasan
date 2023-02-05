@@ -1,5 +1,12 @@
 # <<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Menlo&size=32&weight=800&repeat=true&duration=1000&pause=2000&color=EED339&background=24272D00&center=true&vCenter=true&width=110&height=25&lines=Hello" alt="Typing SVG" /></a>/>
 
+## About Me
+I'm Orçun,  and I'm from Istanbul. I'm a third-year student and frontend developer who is interested in web development.
+
+:arrow_forward: Frontend Support Engineer @ [Jotform](https://www.jotform.com/)
+
+:arrow_forward: Computer Engineering Student @ [Istanbul Bilgi University](https://www.bilgi.edu.tr/en/)
+
 
 <div>
         <table border="0">
