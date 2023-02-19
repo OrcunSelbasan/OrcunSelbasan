@@ -13,9 +13,9 @@ Hi, I'm Orçun.
 <div>
         <table border="0">
         <tr>
-          <th>Core</th>
-          <th>I'm Familiar With</th>
-          <th>I haven't used for a long time</th>
+          <th>Proficiency</th>
+          <th>Familiarity</th>
+          <th>Novice</th>
         </tr>
         <!-- 1ST ROW -->
         <tr>
