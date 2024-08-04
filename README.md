@@ -3,9 +3,9 @@
 ## About Me
 Hi, I'm Orçun.
 
-:computer: Frontend Support Engineer @ [Jotform](https://www.jotform.com/)
+:computer: Junior Frontend Developer @ [Jotform](https://www.jotform.com/)
 
-:man_student: Computer Engineering Student @ [Istanbul Bilgi University](https://www.bilgi.edu.tr/en/)
+:man_student: BSc in Computer Engineering | [Istanbul Bilgi University](https://www.bilgi.edu.tr/en/)
 
 :mailbox: [Reach out](mailto:dev.orcunselbasan@gmail.com?subject=[GitHub%20Redirect]%20) to me!
 
